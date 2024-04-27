@@ -13,7 +13,7 @@ const Home = () => {
            type="button"
            onClick={() => setUser("Alan")}
            >
-            Edit name
+            Edit Name
             </button>
            </div>
            <Link to="/dashboard" className="text-indigo-500 hover:opacity-80"
